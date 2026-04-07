@@ -1,4 +1,4 @@
-/*1.	Napisz program, który rysuje pusty kwadrat o zadanym boku.
+package zadania;/*1.	Napisz program, który rysuje pusty kwadrat o zadanym boku.
  * Wymaga instrukcji if, która sprawdza, czy aktualna pozycja to krawędź
  * (pierwszy/ostatni wiersz lub kolumna)*/
 //Zadanie01

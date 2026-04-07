@@ -1,4 +1,4 @@
-/*Napisz program, który generuje szachownicę złożoną ze znaków X i O.
+package zadania;/*Napisz program, który generuje szachownicę złożoną ze znaków X i O.
  *kluczem jest naprzemienność, mozna uzyskać ją, sprawdzając, czy suma współrzędnych (wiersz + kolumna) jest liczbą parzystą. */
 
 import java.util.Scanner;

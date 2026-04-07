@@ -1,3 +1,5 @@
+package gry;
+
 import java.util.Random;
 import java.util.Scanner;
 

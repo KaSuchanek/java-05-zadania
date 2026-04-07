@@ -1,4 +1,4 @@
-/*5.	Napisz program, który rysuje figurę klepsydry z gwiazdek.
+package zadania;/*5.	Napisz program, który rysuje figurę klepsydry z gwiazdek.
 * dwie piramidy połączone wierzchołkami: jedna odwrócona (góra), a druga zwykła (dół)*/
 
 import java.util.Scanner;

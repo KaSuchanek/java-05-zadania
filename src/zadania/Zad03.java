@@ -1,4 +1,4 @@
-/*3.	Napisz program, który rysuje wycentrowaną piramidę z gwiazdek.
+package zadania;/*3.	Napisz program, który rysuje wycentrowaną piramidę z gwiazdek.
  * w każdym wierszu musimy zrobić dwie różne rzeczy zanim przejdziemy do nowej linii
  * odpowiednia ilosc spacji i odpowiednia ilosc gwaizdek*/
 

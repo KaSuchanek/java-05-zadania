@@ -1,4 +1,4 @@
-/*Napisz program, który rysuje grot strzały skierowany w prawo.
+package zadania;/*Napisz program, który rysuje grot strzały skierowany w prawo.
 * dwa odwrocone trojkaty prostokatne */
 
 import java.util.Scanner;

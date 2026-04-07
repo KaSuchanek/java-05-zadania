@@ -1,4 +1,4 @@
-/*2.	Napisz program, który rysuje literę X w kwadracie o zadanym rozmiarze.
+package zadania;/*2.	Napisz program, który rysuje literę X w kwadracie o zadanym rozmiarze.
 * szukamy dwóch przekatnych (i==j)*/
 
 import java.util.Scanner;
